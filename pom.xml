@@ -17,11 +17,11 @@
   <distributionManagement>
 
 		<repository>
-			<id>my-nexus-package</id>
+			<id>package</id>
 			<url>http://18.117.148.155:8081/repository/package/</url>
 		</repository>
 		<snapshotRepository>
-			<id>my-nexus-snapshots</id>
+			<id>snapshots</id>
 			<url>http://18.117.148.155:8081/repository/snapshots/</url>
 		</snapshotRepository>		
   </distributionManagement>
